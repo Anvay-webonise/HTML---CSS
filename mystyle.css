@@ -1,0 +1,78 @@
+#div1
+{
+	position: relative; 
+	right: 0px; 
+	top: 30px; 
+	left: 300px;
+	border: 1px solid black;
+	width:20%;
+	padding:350px
+}
+
+#div2
+{
+	position: absolute;
+	right: 0px; 
+	top: 0px; 
+	left: 0px;
+	border: 1px solid black;
+	text-align:center;
+	width:97%;
+	padding:15px
+}
+
+#div3
+{
+	position: absolute;
+	right: 0px; 
+	top: 114px; 
+	left: 0px;
+	border: 1px solid black;
+	text-align:left;
+	width:20%;
+	height:62%;
+	padding:19px
+}
+
+#div4
+{
+	position: absolute;
+	right: 0px; 
+	top: 586px; 
+	left: 0px;
+	border: 1px solid black;
+	text-align:center;
+	width:97%;
+	height:12%;
+	padding:15px
+}
+
+#div5
+{
+	position :absolute; 
+	right: 220px; 
+	top: 151px; 
+	left: 549px;
+	border : 1px solid black;
+	height:46%;
+	padding:50px;
+}
+
+#div6
+{
+
+	top: 15px; 
+	left: 15px;
+	border: 1px solid black;
+	text-align:center;
+	width:25%;
+	height:35%;
+	margin:20px 20px;
+	float:left;
+}
+
+p
+{
+	text-align:justify;
+	margin:10px 10px;
+}
